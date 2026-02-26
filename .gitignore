@@ -6,6 +6,10 @@ yarn-error.log*
 pnpm-debug.log*
 
 # Production
+<<<<<<< HEAD
+=======
+
+>>>>>>> d10bbcb8d39b0948b0778e7ae4c68f58f04a8d15
 
 # Environment variables
 .env
