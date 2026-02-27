@@ -15,6 +15,3 @@ PostCSS
 Autoprefixer
 Node.js (for build process)
 
-🔗 Live Demo
-
-👉 [https://tailwindlandingpage1.netlify.app/]
